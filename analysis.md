@@ -13,3 +13,4 @@ Using the dashboards as a guide, we can understand the use of Citi Bikes as habi
 
 <img width="582" alt="Screen Shot 2023-06-29 at 3 20 27 PM" src="https://github.com/dsadamson/Tableau_Challenge/assets/120619922/405a3903-fccc-48ef-a0c3-19eebe2e5788">
 
+Moreover, judging by the distribution of the top ten most used stations on the map of New York City and when they were used over the past year, we can understand their use as a supplement for public transportation. For destinations, eight of ten Citi Bike stops are near major transportation utilities, including Metro lines, bus lines, walking paths, parkways, and ferries.
